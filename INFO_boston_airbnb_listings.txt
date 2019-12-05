@@ -1,0 +1,2 @@
+Dataset location:
+http://insideairbnb.com/get-the-data.html
